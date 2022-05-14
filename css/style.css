@@ -153,3 +153,11 @@ span{
     width: 150px;
     padding: 10px;
 }
+
+.footer{
+    color: #F9FAF8;
+    padding: 45px;
+    flex: 1;
+    background: #1F2937;
+    text-align: center;
+}
